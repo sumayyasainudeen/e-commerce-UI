@@ -1,0 +1,63 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.heading{
+    color: rgb(129, 40, 7);
+    font-family: Arial, Helvetica, sans-serif;
+}
+div.part1{
+    background-color: rgb(249, 236, 169);
+}
+div.part2{
+    /* background-color: rgb(224, 240, 251); */
+}
+div.part3{
+    /* background-color: rgb(237, 253, 187); */
+    background-image: url('images/bg4.webp');
+    background-size: 100% 100%;
+}
+div.part5{
+    /* background-color: rgb(236, 242, 208); */
+    background-image: url('images/bg7.jpg');
+    background-size: 100% 100%;
+
+}
+.footer{
+    background-color: ;
+}
+
+
+.footer-btn{
+    font-size: smaller;
+}
+
+.card:hover{
+    transform: scale(1.05);
+}
+marquee{
+    /* background-color: aquamarine; */
+    color: brown;
+    font-size: 3vw;
+}
+.part4{
+    background-image: url('images/footbg5.jpg');
+    background-size: 100% 100%;
+ 
+}
+.part6{
+    background-image: url('images/homebg1.jpg');
+    background-size: 100% 100%;
+ 
+}
+.part7{
+    background-image: url('images/wfootbg4.jpg');
+    background-size: 100% 100%;
+ 
+}
+.part8{
+    background-image: url('images/kidsbg.jpg');
+    background-size: 100% 100%;
+ 
+}
